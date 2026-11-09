@@ -115,6 +115,8 @@ Los asientos pertenecen al **recinto**, no a la función: la misma butaca se apa
 
 ## 4. Lo que hay que reportar
 
+Todo quedó anotado y con dueño en [`PENDIENTES-DE-ACUERDO.md`](PENDIENTES-DE-ACUERDO.md):
+
 - **D:** D-07 (últimos 4 dígitos), D-08 (comprador nulo), D-10 (mapeo de errores) y el orden de validación de D-03.
 - **L:** `openapi.yaml` con las tarjetas de D14, `Boleto.codigo` de 12 caracteres, `Orden.numero` `ORD-000123` y las formas de `detalles` (D-01, D-02).
 - **R (este documento):** corregir §3.2, §3.6, §4 y CA-05/CA-17 una vez acordado D-03 y D-04.

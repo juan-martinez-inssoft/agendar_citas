@@ -410,9 +410,11 @@ Convenciones: `ahora` es la hora del reloj simulado; `T0 = 2026-11-06T10:00:00-0
 
 ## 9. Revisión pendiente
 
-- **L:** publicar en `openapi.yaml` los cambios de D14 (tarjetas de prueba en lugar de `resultadoSimulado`), el `pattern` del código de boleto de 12 caracteres y `ORD-000123`; y registrar **P14** en `ACUERDOS.md`.
+Las correcciones concretas, con su dueño y el texto propuesto para `ACUERDOS.md`, están en [`specs/PENDIENTES-DE-ACUERDO.md`](PENDIENTES-DE-ACUERDO.md).
+
+- **L:** publicar en `openapi.yaml` los cambios de D14 (tarjetas de prueba en lugar de `resultadoSimulado`), el `pattern` del código de boleto de 12 caracteres, `ORD-000123` y las formas de `detalles`.
 - **R:** faltan **P9** y **P5**, ambos de web_1, para congelar la versión 1.0; P10 ya está aplicado en §3.7.
-- **D:** confirmar que las interfaces `ReservasRepo` y `OrdenesRepo` reciben `ahora` y exponen lo necesario para CA-08 a CA-11 y CA-24.
+- **D:** confirmar que las interfaces `ReservasRepo` y `OrdenesRepo` reciben `ahora` y exponen lo necesario para CA-08 a CA-11 y CA-24; además, PA-08 a PA-11 de la lista de pendientes.
 
 ---
 
